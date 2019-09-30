@@ -1,0 +1,65 @@
+body {
+	background-image:url(informatika.jpg);
+	background-size:cover;
+	background-attachment:fixed;
+}
+h1 {
+	margin:20px 100px;
+	color:red;
+}
+h2 {
+	margin:20px 100px;
+	color:black;
+}
+h3 {
+	margin:10px 50px;
+	color:white;
+	text-align:center;
+}
+p {
+	margin:20px 50px;
+	color:white;
+	text-align:center;
+}
+.navbar-header a{
+	color:red;
+	text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;
+	display:inline-block;
+}
+.navbar-header a:hover{
+	color:green;
+}
+.transbox {
+	width:400px;
+	height:200px;
+	margin:150px 500px;
+	margin-left: auto;
+    margin-right: auto;
+	background-color:black;
+	border:1px solid black;
+	opacity:0.6;
+}
+.foto{
+	display:block;
+	width:20%;
+	height:30%;
+	margin-left: auto;
+    margin-right: auto;
+	border:1px solid black;
+}
+.profil .transbox {
+	width:400px;
+	height:200px;
+	margin:10px;
+	margin-left: auto;
+    margin-right: auto;
+	background-color:black;
+	border:1px solid black;
+	opacity:0.6;
+}
+footer {
+	color:red;
+	text-align:center;
+}
